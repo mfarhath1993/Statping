@@ -22,7 +22,7 @@
     "@sentry/browser": "^5.13.2",
     "@sentry/integrations": "^5.13.2",
     "apexcharts": "^3.15.0",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.6.1",
     "codemirror-colorpicker": "^1.9.66",
